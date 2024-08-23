@@ -2,7 +2,7 @@
 - 👀 Beyond my remit for software delivery, I’m interested in "Making people awesome"&mdash;[a key Agile value](https://modernagile.org/).
 - 🌱 I’m currently catching up on Anaconda. I've watched it grow for 10+ years, and now get to contribute.
 - 💞️ I’m looking to collaborate on expanding options for AI MML model discovery.
-- 📫 How to reach me is best with <brian.oxley@zencohen.com> or in Slack.
+- 📫 Best to reach me with email <brian.oxley@zencohen.com> or in Slack.
 - ⚡ Fun fact: I love to play bridge and D&D, and am a classical musician.
 
 <!---
